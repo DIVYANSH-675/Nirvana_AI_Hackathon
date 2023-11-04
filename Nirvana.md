@@ -2,6 +2,7 @@
 
 Team Details
 Jigyasu Patel (leader)  [ML Model Developer]
+
 Divyansh Gupta          [API  Developer]
 Nishant Nischal         [App Developer]
 
