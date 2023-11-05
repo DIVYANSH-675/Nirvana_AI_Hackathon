@@ -36,10 +36,6 @@ Doctor Robo is an innovative mobile application designed to provide accessible a
 
 - **User-Friendly Interface**: A simple and intuitive user interface for a seamless experience.
 
-- **Fingerprint Authentication**: Secure your health data with fingerprint authentication.
-
-- **Integration with e-Sanjeevani**: Easily connect with expert doctors through the e-Sanjeevani app.
-
 - **Collaboration with Local Medical Shops**: Find the nearest medical shops for medication needs.
 
 - **Data-Driven Public Health**: Anonymized user data helps public health organizations make informed decisions.
@@ -65,19 +61,21 @@ Doctor Robo is an innovative mobile application designed to provide accessible a
 ## Technology Stack
 
 - **Frontend**: Android Studio, Java, XML
-- **AI Chatbot**: Natural Language Processing (NLP)
-- **Fingerprint Authentication**: Android Fingerprint API
-- **Data Collection**: CSV files, Python
+- **AI Chatbot**: Python, Decision Tree Classifier
+- **Data Collection**: Kaggle
 - **Data Analysis and Predictive Modeling**: Python, scikit-learn
 - **Integration with e-Sanjeevani**: Deep linking
-- **Secure Storage**: SQLite
-- **Location Services**: Google Maps API
+- **Secure Storage**: Firebase
 - **Community Impact**: Collaboration with local medical shops
 
 ## Contributing
 
 Contributions are welcome! Whether you're a developer, healthcare professional, or designer, you can help make Doctor Robo better.
 
+## Link 
+
+Android App Link
+https://drive.google.com/file/d/1EJqaR4RZa3CLbUSlIJgGZ5rq_xR2Gvne/view?usp=drive_link
 
 
 
