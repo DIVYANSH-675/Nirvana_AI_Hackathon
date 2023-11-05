@@ -25,8 +25,6 @@ Doctor Robo is an innovative mobile application designed to provide accessible a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
