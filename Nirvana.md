@@ -54,9 +54,7 @@ Doctor Robo is an innovative mobile application designed to provide accessible a
 2. Chat with the AI chatbot for health advice.
 3. Use the symptom checker for self-assessment.
 4. Access disease information and treatment details.
-5. Secure your data with fingerprint authentication.
-6. Find local medical shops for medications.
-7. Connect with expert doctors via the e-Sanjeevani app.
+5. Find local medical shops for medications.
 
 ## Technology Stack
 
